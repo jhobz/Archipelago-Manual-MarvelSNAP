@@ -1,0 +1,30 @@
+{
+	"Starting Deck": 
+	{
+		"starting": true,
+		"connects_to": ["Proving Grounds"],
+		"requires": []
+	},
+	"Proving Grounds":
+	{
+		"starting": true,
+		"connects_to": ["Silver Conquest"],
+		"requires": []
+	},
+	"Silver Conquest": 
+	{
+		"starting": true,
+		"connects_to": ["Gold Conquest"],
+		"requires": []
+	},
+	"Gold Conquest": 
+	{
+		"starting": true,
+		"requires": []
+	},
+	"Unowned":
+	{
+		"starting": true,
+		"requires": []
+	}
+}
