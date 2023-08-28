@@ -22,6 +22,11 @@
 		"starting": true,
 		"requires": []
 	},
+	"Cubes":
+	{
+		"starting": true,
+		"requires": []
+	},
 	"Unowned":
 	{
 		"starting": true,
