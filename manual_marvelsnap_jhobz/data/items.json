@@ -1,1 +1,1834 @@
-[{"name":"Abomination","count":1,"category":["Cards"],"progression":true},{"name":"Absorbing Man","count":1,"category":["Cards"],"progression":true},{"name":"Adam Warlock","count":1,"category":["Cards"],"progression":true},{"name":"Aero","count":1,"category":["Cards"],"progression":true},{"name":"Agatha Harkness","count":1,"category":["Cards"],"progression":true},{"name":"Agent 13","count":1,"category":["Cards"],"progression":true},{"name":"Agent Coulson","count":1,"category":["Cards"],"progression":true},{"name":"America Chavez","count":1,"category":["Cards"],"progression":true},{"name":"Angel","count":1,"category":["Cards"],"progression":true},{"name":"Angela","count":1,"category":["Cards"],"progression":true},{"name":"Ant Man","count":1,"category":["Cards"],"progression":true},{"name":"Apocalypse","count":1,"category":["Cards"],"progression":true},{"name":"Armor","count":1,"category":["Cards"],"progression":true},{"name":"Arnim Zola","count":1,"category":["Cards"],"progression":true},{"name":"Baron Mordo","count":1,"category":["Cards"],"progression":true},{"name":"Beast","count":1,"category":["Cards"],"progression":true},{"name":"Bishop","count":1,"category":["Cards"],"progression":true},{"name":"Black Bolt","count":1,"category":["Cards"],"progression":true},{"name":"Black Cat","count":1,"category":["Cards"],"progression":true},{"name":"Black Panther","count":1,"category":["Cards"],"progression":true},{"name":"Black Widow","count":1,"category":["Cards"],"progression":true},{"name":"Blade","count":1,"category":["Cards"],"progression":true},{"name":"Blue Marvel","count":1,"category":["Cards"],"progression":true},{"name":"Brood","count":1,"category":["Cards"],"progression":true},{"name":"Bucky Barnes","count":1,"category":["Cards"],"progression":true},{"name":"Cable","count":1,"category":["Cards"],"progression":true},{"name":"Captain America","count":1,"category":["Cards"],"progression":true},{"name":"Captain Marvel","count":1,"category":["Cards"],"progression":true},{"name":"Carnage","count":1,"category":["Cards"],"progression":true},{"name":"Cerebro","count":1,"category":["Cards"],"progression":true},{"name":"Cloak","count":1,"category":["Cards"],"progression":true},{"name":"Colleen Wing","count":1,"category":["Cards"],"progression":true},{"name":"Colossus","count":1,"category":["Cards"],"progression":true},{"name":"Cosmo","count":1,"category":["Cards"],"progression":true},{"name":"Crossbones","count":1,"category":["Cards"],"progression":true},{"name":"Crystal","count":1,"category":["Cards"],"progression":true},{"name":"Cyclops","count":1,"category":["Cards"],"progression":true},{"name":"Dagger","count":1,"category":["Cards"],"progression":true},{"name":"Daredevil","count":1,"category":["Cards"],"progression":true},{"name":"Darkhawk","count":1,"category":["Cards"],"progression":true},{"name":"Dazzler","count":1,"category":["Cards"],"progression":true},{"name":"Deadpool","count":1,"category":["Cards"],"progression":true},{"name":"Death","count":1,"category":["Cards"],"progression":true},{"name":"Deathlok","count":1,"category":["Cards"],"progression":true},{"name":"Debrii","count":1,"category":["Cards"],"progression":true},{"name":"Destroyer","count":1,"category":["Cards"],"progression":true},{"name":"Devil Dinosaur","count":1,"category":["Cards"],"progression":true},{"name":"Doctor Octopus","count":1,"category":["Cards"],"progression":true},{"name":"Doctor Strange","count":1,"category":["Cards"],"progression":true},{"name":"Domino","count":1,"category":["Cards"],"progression":true},{"name":"Dracula","count":1,"category":["Cards"],"progression":true},{"name":"Drax","count":1,"category":["Cards"],"progression":true},{"name":"Doctor Doom","count":1,"category":["Cards"],"progression":true},{"name":"Ebony Maw","count":1,"category":["Cards"],"progression":true},{"name":"Electro","count":1,"category":["Cards"],"progression":true},{"name":"Elektra","count":1,"category":["Cards"],"progression":true},{"name":"Enchantress","count":1,"category":["Cards"],"progression":true},{"name":"Falcon","count":1,"category":["Cards"],"progression":true},{"name":"Forge","count":1,"category":["Cards"],"progression":true},{"name":"Galactus","count":1,"category":["Cards"],"progression":true},{"name":"Gambit","count":1,"category":["Cards"],"progression":true},{"name":"Gamora","count":1,"category":["Cards"],"progression":true},{"name":"Ghost Rider","count":1,"category":["Cards"],"progression":true},{"name":"Ghost-Spider","count":1,"category":["Cards"],"progression":true},{"name":"Giganto","count":1,"category":["Cards"],"progression":true},{"name":"Goose","count":1,"category":["Cards"],"progression":true},{"name":"Green Goblin","count":1,"category":["Cards"],"progression":true},{"name":"Groot","count":1,"category":["Cards"],"progression":true},{"name":"Hawkeye","count":1,"category":["Cards"],"progression":true},{"name":"Hazmat","count":1,"category":["Cards"],"progression":true},{"name":"Heimdall","count":1,"category":["Cards"],"progression":true},{"name":"Hela","count":1,"category":["Cards"],"progression":true},{"name":"Helicarrier","count":1,"category":["Cards"],"progression":true},{"name":"Hellcow","count":1,"category":["Cards"],"progression":true},{"name":"Hit-Monkey","count":1,"category":["Cards"],"progression":true},{"name":"Hobgoblin","count":1,"category":["Cards"],"progression":true},{"name":"The Hood","count":1,"category":["Cards"],"progression":true},{"name":"Hulk","count":1,"category":["Cards"],"progression":true},{"name":"Hulkbuster","count":1,"category":["Cards"],"progression":true},{"name":"Human Torch","count":1,"category":["Cards"],"progression":true},{"name":"Iceman","count":1,"category":["Cards"],"progression":true},{"name":"The Infinaut","count":1,"category":["Cards"],"progression":true},{"name":"Invisible Woman","count":1,"category":["Cards"],"progression":true},{"name":"Iron Fist","count":1,"category":["Cards"],"progression":true},{"name":"Ironheart","count":1,"category":["Cards"],"progression":true},{"name":"Iron Man","count":1,"category":["Cards"],"progression":true},{"name":"Jane Foster Mighty Thor","count":1,"category":["Cards"],"progression":true},{"name":"Jean Grey","count":1,"category":["Cards"],"progression":true},{"name":"Jeff the Baby Land Shark","count":1,"category":["Cards"],"progression":true},{"name":"Jessica Jones","count":1,"category":["Cards"],"progression":true},{"name":"Jubilee","count":1,"category":["Cards"],"progression":true},{"name":"Juggernaut","count":1,"category":["Cards"],"progression":true},{"name":"Kang","count":1,"category":["Cards"],"progression":true},{"name":"Ka-Zar","count":1,"category":["Cards"],"progression":true},{"name":"Killmonger","count":1,"category":["Cards"],"progression":true},{"name":"Kingpin","count":1,"category":["Cards"],"progression":true},{"name":"Kitty Pryde","count":1,"category":["Cards"],"progression":true},{"name":"Klaw","count":1,"category":["Cards"],"progression":true},{"name":"Korg","count":1,"category":["Cards"],"progression":true},{"name":"Kraven","count":1,"category":["Cards"],"progression":true},{"name":"Lady Deathstrike","count":1,"category":["Cards"],"progression":true},{"name":"Lady Sif","count":1,"category":["Cards"],"progression":true},{"name":"Leader","count":1,"category":["Cards"],"progression":true},{"name":"Leech","count":1,"category":["Cards"],"progression":true},{"name":"Legion","count":1,"category":["Cards"],"progression":true},{"name":"The Living Tribunal","count":1,"category":["Cards"],"progression":true},{"name":"Lizard","count":1,"category":["Cards"],"progression":true},{"name":"Lockjaw","count":1,"category":["Cards"],"progression":true},{"name":"Luke Cage","count":1,"category":["Cards"],"progression":true},{"name":"Magik","count":1,"category":["Cards"],"progression":true},{"name":"Magneto","count":1,"category":["Cards"],"progression":true},{"name":"Mantis","count":1,"category":["Cards"],"progression":true},{"name":"Maria Hill","count":1,"category":["Cards"],"progression":true},{"name":"Master Mold","count":1,"category":["Cards"],"progression":true},{"name":"Maximus","count":1,"category":["Cards"],"progression":true},{"name":"M'Baku","count":1,"category":["Cards"],"progression":true},{"name":"Medusa","count":1,"category":["Cards"],"progression":true},{"name":"Miles Morales","count":1,"category":["Cards"],"progression":true},{"name":"Mirage","count":1,"category":["Cards"],"progression":true},{"name":"Misty Knight","count":1,"category":["Cards"],"progression":true},{"name":"M.O.D.O.K.","count":1,"category":["Cards"],"progression":true},{"name":"Mojo","count":1,"category":["Cards"],"progression":true},{"name":"Moon Girl","count":1,"category":["Cards"],"progression":true},{"name":"Moon Knight","count":1,"category":["Cards"],"progression":true},{"name":"Morbius","count":1,"category":["Cards"],"progression":true},{"name":"Morph","count":1,"category":["Cards"],"progression":true},{"name":"Mister Fantastic","count":1,"category":["Cards"],"progression":true},{"name":"Mister Negative","count":1,"category":["Cards"],"progression":true},{"name":"Mister Sinister","count":1,"category":["Cards"],"progression":true},{"name":"Multiple Man","count":1,"category":["Cards"],"progression":true},{"name":"Mysterio","count":1,"category":["Cards"],"progression":true},{"name":"Mystique","count":1,"category":["Cards"],"progression":true},{"name":"Nakia","count":1,"category":["Cards"],"progression":true},{"name":"Namor","count":1,"category":["Cards"],"progression":true},{"name":"Nebula","count":1,"category":["Cards"],"progression":true},{"name":"Negasonic Teenage Warhead","count":1,"category":["Cards"],"progression":true},{"name":"Nick Fury","count":1,"category":["Cards"],"progression":true},{"name":"Nightcrawler","count":1,"category":["Cards"],"progression":true},{"name":"Nova","count":1,"category":["Cards"],"progression":true},{"name":"Odin","count":1,"category":["Cards"],"progression":true},{"name":"Okoye","count":1,"category":["Cards"],"progression":true},{"name":"Omega Red","count":1,"category":["Cards"],"progression":true},{"name":"Onslaught","count":1,"category":["Cards"],"progression":true},{"name":"Orka","count":1,"category":["Cards"],"progression":true},{"name":"Patriot","count":1,"category":["Cards"],"progression":true},{"name":"Polaris","count":1,"category":["Cards"],"progression":true},{"name":"Professor X","count":1,"category":["Cards"],"progression":true},{"name":"Psylocke","count":1,"category":["Cards"],"progression":true},{"name":"Punisher","count":1,"category":["Cards"],"progression":true},{"name":"Quake","count":1,"category":["Cards"],"progression":true},{"name":"Quicksilver","count":1,"category":["Cards"],"progression":true},{"name":"Quinjet","count":1,"category":["Cards"],"progression":true},{"name":"Red Skull","count":1,"category":["Cards"],"progression":true},{"name":"Rescue","count":1,"category":["Cards"],"progression":true},{"name":"Rhino","count":1,"category":["Cards"],"progression":true},{"name":"Rocket Raccoon","count":1,"category":["Cards"],"progression":true},{"name":"Rockslide","count":1,"category":["Cards"],"progression":true},{"name":"Rogue","count":1,"category":["Cards"],"progression":true},{"name":"Ronan the Accuser","count":1,"category":["Cards"],"progression":true},{"name":"Sabretooth","count":1,"category":["Cards"],"progression":true},{"name":"Sandman","count":1,"category":["Cards"],"progression":true},{"name":"Sauron","count":1,"category":["Cards"],"progression":true},{"name":"Scarlet Witch","count":1,"category":["Cards"],"progression":true},{"name":"Scorpion","count":1,"category":["Cards"],"progression":true},{"name":"Sentinel","count":1,"category":["Cards"],"progression":true},{"name":"Sentry","count":1,"category":["Cards"],"progression":true},{"name":"Sera","count":1,"category":["Cards"],"progression":true},{"name":"Shadow King","count":1,"category":["Cards"],"progression":true},{"name":"Shang-Chi","count":1,"category":["Cards"],"progression":true},{"name":"Shanna","count":1,"category":["Cards"],"progression":true},{"name":"She-Hulk","count":1,"category":["Cards"],"progression":true},{"name":"Shocker","count":1,"category":["Cards"],"progression":true},{"name":"Shuri","count":1,"category":["Cards"],"progression":true},{"name":"Silk","count":1,"category":["Cards"],"progression":true},{"name":"Silver Surfer","count":1,"category":["Cards"],"progression":true},{"name":"Snowguard","count":1,"category":["Cards"],"progression":true},{"name":"Spectrum","count":1,"category":["Cards"],"progression":true},{"name":"Spider-Man","count":1,"category":["Cards"],"progression":true},{"name":"Spider-Woman","count":1,"category":["Cards"],"progression":true},{"name":"Squirrel Girl","count":1,"category":["Cards"],"progression":true},{"name":"Star-Lord","count":1,"category":["Cards"],"progression":true},{"name":"Storm","count":1,"category":["Cards"],"progression":true},{"name":"Strong Guy","count":1,"category":["Cards"],"progression":true},{"name":"Sunspot","count":1,"category":["Cards"],"progression":true},{"name":"Super-Skrull","count":1,"category":["Cards"],"progression":true},{"name":"Swarm","count":1,"category":["Cards"],"progression":true},{"name":"Sword Master","count":1,"category":["Cards"],"progression":true},{"name":"Taskmaster","count":1,"category":["Cards"],"progression":true},{"name":"Thanos","count":1,"category":["Cards"],"progression":true},{"name":"The Collector","count":1,"category":["Cards"],"progression":true},{"name":"Phoenix Force","count":1,"category":["Cards"],"progression":true},{"name":"The Thing","count":1,"category":["Cards"],"progression":true},{"name":"Thor","count":1,"category":["Cards"],"progression":true},{"name":"Titania","count":1,"category":["Cards"],"progression":true},{"name":"Typhoid Mary","count":1,"category":["Cards"],"progression":true},{"name":"Uatu the Watcher","count":1,"category":["Cards"],"progression":true},{"name":"Ultron","count":1,"category":["Cards"],"progression":true},{"name":"Valkyrie","count":1,"category":["Cards"],"progression":true},{"name":"Venom","count":1,"category":["Cards"],"progression":true},{"name":"Viper","count":1,"category":["Cards"],"progression":true},{"name":"Vision","count":1,"category":["Cards"],"progression":true},{"name":"Vulture","count":1,"category":["Cards"],"progression":true},{"name":"Warpath","count":1,"category":["Cards"],"progression":true},{"name":"Wasp","count":1,"category":["Cards"],"progression":true},{"name":"Wave","count":1,"category":["Cards"],"progression":true},{"name":"White Queen","count":1,"category":["Cards"],"progression":true},{"name":"White Tiger","count":1,"category":["Cards"],"progression":true},{"name":"Wolfsbane","count":1,"category":["Cards"],"progression":true},{"name":"Wolverine","count":1,"category":["Cards"],"progression":true},{"name":"Wong","count":1,"category":["Cards"],"progression":true},{"name":"X-23","count":1,"category":["Cards"],"progression":true},{"name":"Yellowjacket","count":1,"category":["Cards"],"progression":true},{"name":"Yondu","count":1,"category":["Cards"],"progression":true},{"name":"Zabu","count":1,"category":["Cards"],"progression":true},{"name":"Zero","count":1,"category":["Cards"],"progression":true},{"name":"Bast","count":1,"category":["Cards"],"progression":true},{"name":"Attuma","count":1,"category":["Cards"],"progression":true},{"name":"Knull","count":1,"category":["Cards"],"progression":true},{"name":"Stature","count":1,"category":["Cards"],"progression":true},{"name":"Ghost","count":1,"category":["Cards"],"progression":true},{"name":"Nimrod","count":1,"category":["Cards"],"progression":true},{"name":"Stegron","count":1,"category":["Cards"],"progression":true},{"name":"Howard the Duck","count":1,"category":["Cards"],"progression":true},{"name":"High Evolutionary","count":1,"category":["Cards"],"progression":true},{"name":"Iron Lad","count":1,"category":["Cards"],"progression":true},{"name":"Spider-Ham","count":1,"category":["Cards"],"progression":true},{"name":"Spider-Man 2099","count":1,"category":["Cards"],"progression":true},{"name":"Echo","count":1,"category":["Cards"],"progression":true},{"name":"Daken","count":1,"category":["Cards"],"progression":true}]
+[
+    {
+        "name": "Abomination",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Absorbing Man",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Adam Warlock",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Aero",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Agatha Harkness",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Agent 13",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Agent Coulson",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "America Chavez",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Angel",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Angela",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Ant Man",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Apocalypse",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Armor",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Arnim Zola",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Baron Mordo",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Beast",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Bishop",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Black Bolt",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Black Cat",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Black Panther",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Black Widow",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Blade",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Blue Marvel",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Brood",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Bucky Barnes",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Cable",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Captain America",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Captain Marvel",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Carnage",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Cerebro",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Cloak",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Colleen Wing",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Colossus",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Cosmo",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Crossbones",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Crystal",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Cyclops",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Dagger",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Daredevil",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Darkhawk",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Dazzler",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Deadpool",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Death",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Deathlok",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Debrii",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Destroyer",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Devil Dinosaur",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Doctor Octopus",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Doctor Strange",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Domino",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Dracula",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Drax",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Doctor Doom",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Ebony Maw",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Electro",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Elektra",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Enchantress",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Falcon",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Forge",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Galactus",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Gambit",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Gamora",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Ghost Rider",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Ghost-Spider",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Giganto",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Goose",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Green Goblin",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Groot",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Hawkeye",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Hazmat",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Heimdall",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Hela",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Helicarrier",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Hellcow",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Hit-Monkey",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Hobgoblin",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "The Hood",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Hulk",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Hulkbuster",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Human Torch",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Iceman",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "The Infinaut",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Invisible Woman",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Iron Fist",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Ironheart",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Iron Man",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Jane Foster Mighty Thor",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Jean Grey",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Jeff the Baby Land Shark",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Jessica Jones",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Jubilee",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Juggernaut",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Kang",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Ka-Zar",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Killmonger",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Kingpin",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Kitty Pryde",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Klaw",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Korg",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Kraven",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Lady Deathstrike",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Lady Sif",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Leader",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Leech",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Legion",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "The Living Tribunal",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Lizard",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Lockjaw",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Luke Cage",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Magik",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Magneto",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Mantis",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Maria Hill",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Master Mold",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Maximus",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "M'Baku",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Medusa",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Miles Morales",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Mirage",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Misty Knight",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "M.O.D.O.K.",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Mojo",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Moon Girl",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Moon Knight",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Morbius",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Morph",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Mister Fantastic",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Mister Negative",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Mister Sinister",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Multiple Man",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Mysterio",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Mystique",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Nakia",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Namor",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Nebula",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Negasonic Teenage Warhead",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Nick Fury",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Nightcrawler",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Nova",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Odin",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Okoye",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Omega Red",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Onslaught",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Orka",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Patriot",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Polaris",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Professor X",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Psylocke",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Punisher",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Quake",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Quicksilver",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Quinjet",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Red Skull",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Rescue",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Rhino",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Rocket Raccoon",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Rockslide",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Rogue",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Ronan the Accuser",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Sabretooth",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Sandman",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Sauron",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Scarlet Witch",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Scorpion",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Sentinel",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Sentry",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Sera",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Shadow King",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Shang-Chi",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Shanna",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "She-Hulk",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Shocker",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Shuri",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Silk",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Silver Surfer",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Snowguard",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Spectrum",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Spider-Man",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Spider-Woman",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Squirrel Girl",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Star-Lord",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Storm",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Strong Guy",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Sunspot",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Super-Skrull",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Swarm",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Sword Master",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Taskmaster",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Thanos",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "The Collector",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Phoenix Force",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "The Thing",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Thor",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Titania",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Typhoid Mary",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Uatu the Watcher",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Ultron",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Valkyrie",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Venom",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Viper",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Vision",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Vulture",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Warpath",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Wasp",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Wave",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "White Queen",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "White Tiger",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Wolfsbane",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Wolverine",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Wong",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "X-23",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Yellowjacket",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Yondu",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zabu",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Zero",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Bast",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Attuma",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Knull",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Stature",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Ghost",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Nimrod",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Stegron",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Howard the Duck",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "High Evolutionary",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Iron Lad",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Spider-Ham",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Spider-Man 2099",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Echo",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Daken",
+        "count": 1,
+        "category": [
+            "Cards"
+        ],
+        "progression": true
+    }
+]
