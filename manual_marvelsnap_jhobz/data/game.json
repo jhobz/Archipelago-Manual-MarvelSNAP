@@ -1,2 +1,11 @@
-
-	{"game": "MarvelSNAP","player": "JHobz","filler_item_name": "(junk card)"}
+{
+	"game": "MarvelSNAP",
+	"player": "JHobz",
+	"filler_item_name": "Rock",
+	"starting_items": [
+		{
+			"item_categories": ["Cards"],
+			"random": 12
+		}
+	]
+}
