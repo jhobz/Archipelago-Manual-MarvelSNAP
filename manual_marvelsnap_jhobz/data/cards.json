@@ -19,7 +19,7 @@
 		"id": 2,
 		"defId": "AbsorbingMan",
 		"cost": 4,
-		"power": 5,
+		"power": 4,
 		"name": "Absorbing Man",
 		"description": "<b>On Reveal:</b> If the last card you played has an <b>On Reveal</b>, copy its text. <i>(if it's in play)</i>",
 		"series": 6,
@@ -212,6 +212,30 @@
 		"collectible": true
 	},
 	{
+		"id": 11,
+		"defId": "Annihilus",
+		"cost": 5,
+		"power": 8,
+		"name": "Annihilus",
+		"description": "<b>On Reveal:</b> Your cards with 0 or less Power switch sides. Destroy\nthose that can't.",
+		"attributes": {
+			"data": {
+				"AssignedPower": 0
+			}
+		},
+		"series": 0,
+		"artists": [
+			{
+				"name": "Eduardo Mello",
+				"type": 1
+			},
+			{
+				"name": "Ryan Kinnaird",
+				"type": 4
+			}
+		]
+	},
+	{
 		"id": 12,
 		"defId": "AntMan",
 		"cost": 1,
@@ -400,8 +424,8 @@
 	{
 		"id": 20,
 		"defId": "BlackCat",
-		"cost": 3,
-		"power": 7,
+		"cost": 4,
+		"power": 9,
 		"name": "Black Cat",
 		"description": "If you end the turn with this in your hand, discard it.",
 		"series": 6,
@@ -423,9 +447,25 @@
 		"cost": 1,
 		"power": 2,
 		"name": "Black Knight",
-		"description": "When this is destroyed, draw a card.",
+		"description": "After you discard a card, add the Ebony Blade to your hand with that card's Power. <i>(once per game)</i>",
+		"attributes": {
+			"cards": {
+				"Card_Token": [
+					297
+				]
+			}
+		},
 		"series": 0,
-		"artists": []
+		"artists": [
+			{
+				"name": "Ario Anindito",
+				"type": 1
+			},
+			{
+				"name": "Ryan Kinnaird",
+				"type": 4
+			}
+		]
 	},
 	{
 		"id": 22,
@@ -480,7 +520,7 @@
 		"cost": 1,
 		"power": 3,
 		"name": "Blade",
-		"description": "<b>On Reveal:</b> Discard a card from your hand.",
+		"description": "<b>On Reveal:</b> Discard the rightmost card from your hand.",
 		"series": 4,
 		"artists": [
 			{
@@ -696,7 +736,7 @@
 		"id": 34,
 		"defId": "CaptainMarvel",
 		"cost": 4,
-		"power": 5,
+		"power": 4,
 		"name": "Captain Marvel",
 		"description": "At the end of the game, move to a location that wins you the\ngame. (If possible)",
 		"series": 6,
@@ -1227,7 +1267,7 @@
 		"id": 58,
 		"defId": "DoomBot",
 		"cost": 6,
-		"power": 4,
+		"power": 5,
 		"name": "DoomBot",
 		"description": "<i>\"Doom is supreme!\"</i>",
 		"series": 0,
@@ -1293,7 +1333,7 @@
 		"cost": 6,
 		"power": 5,
 		"name": "Doctor Doom",
-		"description": "<b>On Reveal:</b> Add a 4-Power DoomBot to each other location.",
+		"description": "<b>On Reveal:</b> Add a 5-Power DoomBot to each other location.",
 		"attributes": {
 			"cards": {
 				"Card_Token": [
@@ -1422,13 +1462,13 @@
 	{
 		"id": 67,
 		"defId": "ElsaBloodstone",
-		"cost": 1,
-		"power": 1,
+		"cost": 2,
+		"power": 2,
 		"name": "Elsa Bloodstone",
-		"description": "At the end of each turn, if you are winning this location, +1 Power.",
+		"description": "If you play another card to fill a location, give it +3 Power.",
 		"attributes": {
 			"data": {
-				"AddedPower": 1
+				"AddedPower": 3
 			}
 		},
 		"series": 0,
@@ -1441,7 +1481,8 @@
 				"name": "Ryan Kinnaird",
 				"type": 4
 			}
-		]
+		],
+		"collectible": true
 	},
 	{
 		"id": 68,
@@ -1528,7 +1569,7 @@
 		"id": 72,
 		"defId": "Galactus",
 		"cost": 6,
-		"power": 7,
+		"power": 5,
 		"name": "Galactus",
 		"description": "<b>On Reveal:</b> If you're winning this location and this is your only card here, destroy all other locations.",
 		"series": 8,
@@ -2374,7 +2415,7 @@
 		"id": 112,
 		"defId": "KittyPryde",
 		"cost": 1,
-		"power": 2,
+		"power": 0,
 		"name": "Kitty Pryde",
 		"description": "When this returns to your hand,\n+1 Power. Returns at the start\nof each turn.",
 		"attributes": {
@@ -2476,7 +2517,7 @@
 		"id": 116,
 		"defId": "LadyDeathstrike",
 		"cost": 5,
-		"power": 3,
+		"power": 4,
 		"name": "Lady Deathstrike",
 		"description": "<b>On Reveal:</b> Destroy each card here with less Power than this.",
 		"series": 8,
@@ -2492,7 +2533,7 @@
 		"id": 117,
 		"defId": "LadySif",
 		"cost": 3,
-		"power": 4,
+		"power": 5,
 		"name": "Lady Sif",
 		"description": "<b>On Reveal:</b> Discard the highest-cost card from your hand.",
 		"series": 4,
@@ -2557,7 +2598,7 @@
 		"id": 120,
 		"defId": "Legion",
 		"cost": 5,
-		"power": 8,
+		"power": 7,
 		"name": "Legion",
 		"description": "<b>On Reveal:</b> Replace each other location with this one.",
 		"series": 7,
@@ -2651,7 +2692,7 @@
 				"ReducedCost": 1
 			}
 		},
-		"series": 0,
+		"series": 9,
 		"artists": [
 			{
 				"name": "Ryan Benjamin",
@@ -2661,7 +2702,8 @@
 				"name": "Ryan Kinnaird",
 				"type": 4
 			}
-		]
+		],
+		"collectible": true
 	},
 	{
 		"id": 125,
@@ -3258,10 +3300,10 @@
 	{
 		"id": 151,
 		"defId": "MsMarvel",
-		"cost": 3,
-		"power": 4,
+		"cost": 4,
+		"power": 5,
 		"name": "Ms. Marvel",
-		"description": "<b>Ongoing:</b> If this is your only card here, adjacent locations\nhave +5 Power.",
+		"description": "<b>Ongoing:</b> Adjacent locations where your cards have unique Costs\nhave +5 Power.",
 		"attributes": {
 			"data": {
 				"AddedPower": 5
@@ -3802,7 +3844,7 @@
 		"id": 175,
 		"defId": "Psylocke",
 		"cost": 2,
-		"power": 1,
+		"power": 2,
 		"name": "Psylocke",
 		"description": "<b>On Reveal:</b> Next turn, you get +1 Energy.",
 		"attributes": {
@@ -4087,8 +4129,8 @@
 	{
 		"id": 189,
 		"defId": "Rockslide",
-		"cost": 4,
-		"power": 5,
+		"cost": 3,
+		"power": 3,
 		"name": "Rockslide",
 		"description": "<b>On Reveal:</b> Shuffle 2 Rocks into your opponent's deck.",
 		"attributes": {
@@ -4365,7 +4407,7 @@
 	{
 		"id": 202,
 		"defId": "ShadowKing",
-		"cost": 3,
+		"cost": 2,
 		"power": 3,
 		"name": "Shadow King",
 		"description": "<b>On Reveal:</b> Set all cards here to their original base Power.",
@@ -4540,7 +4582,7 @@
 		"power": 5,
 		"name": "Silver Samurai",
 		"description": "<b>On Reveal:</b> Each player discards the lowest-Power card from their hand.",
-		"series": 0,
+		"series": 8,
 		"artists": [
 			{
 				"name": "Eduardo Mello",
@@ -4550,7 +4592,8 @@
 				"name": "Ryan Kinnaird",
 				"type": 4
 			}
-		]
+		],
+		"collectible": true
 	},
 	{
 		"id": 211,
@@ -4610,7 +4653,7 @@
 		"cost": 1,
 		"power": 2,
 		"name": "Snowguard",
-		"description": "While in your hand, this transforms each turn into a Hawk or a Bear.",
+		"description": "<b>On Reveal:</b> Add the Hawk and Bear auroras to your hand.",
 		"attributes": {
 			"cards": {
 				"Card_Token": [
@@ -4635,9 +4678,9 @@
 	{
 		"id": 214,
 		"defId": "SnowguardBear",
-		"cost": 1,
-		"power": 2,
-		"name": "Snowguard",
+		"cost": 3,
+		"power": 4,
+		"name": "Snowguard Bear",
 		"description": "<b>On Reveal:</b> Trigger the effect of this location.",
 		"attributes": {
 			"cards": {
@@ -4664,10 +4707,10 @@
 	{
 		"id": 215,
 		"defId": "SnowguardHawk",
-		"cost": 1,
-		"power": 2,
-		"name": "Snowguard",
-		"description": "<b>On Reveal:</b> Ignore all location abilities next turn.",
+		"cost": 3,
+		"power": 3,
+		"name": "Snowguard Hawk",
+		"description": "<b>On Reveal:</b> Ignore all location abilities until the end of next turn <i>(or the game)</i>.",
 		"attributes": {
 			"cards": {
 				"Card_Source": [
@@ -4720,7 +4763,7 @@
 		"cost": 1,
 		"power": 1,
 		"name": "Soul Stone",
-		"description": "<b>On Reveal:</b> Draw a card. <b>Ongoing:</b> Enemy cards here have -1 Power.",
+		"description": "<b>Ongoing:</b> Enemy cards here have -1 Power.",
 		"attributes": {
 			"data": {
 				"ReducedPower": 1
@@ -4859,7 +4902,7 @@
 		"id": 224,
 		"defId": "SquirrelGirl",
 		"cost": 1,
-		"power": 1,
+		"power": 2,
 		"name": "Squirrel Girl",
 		"description": "<b>On Reveal:</b> Add a 1-Power Squirrel to each other location.",
 		"attributes": {
@@ -5160,7 +5203,7 @@
 		"id": 237,
 		"defId": "TheCollector",
 		"cost": 2,
-		"power": 2,
+		"power": 0,
 		"name": "The Collector",
 		"description": "When a card enters your hand from anywhere <i>(except your deck)</i>,\n+1 Power.",
 		"attributes": {
@@ -5830,7 +5873,7 @@
 				"AddedEnergy": 1
 			}
 		},
-		"series": 0,
+		"series": 8,
 		"artists": [
 			{
 				"name": "Eduardo Mello",
@@ -6172,13 +6215,13 @@
 		"attributes": {
 			"cards": {
 				"Card_Related": [
-					300,
-					301,
-					302,
-					303,
-					304,
-					305,
-					306
+					307,
+					308,
+					309,
+					310,
+					311,
+					312,
+					313
 				]
 			}
 		},
@@ -6218,10 +6261,10 @@
 	{
 		"id": 287,
 		"defId": "SpiderHam",
-		"cost": 2,
-		"power": 2,
+		"cost": 1,
+		"power": 1,
 		"name": "Spider-Ham",
-		"description": "<b>On Reveal:</b> Transform the highest-cost card in your opponent's hand into a Pig, keeping its Power and Cost.",
+		"description": "<b>On Reveal:</b> Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost.",
 		"attributes": {
 			"cards": {
 				"Card_Token": [
@@ -6322,7 +6365,7 @@
 				]
 			}
 		},
-		"series": 9,
+		"series": 8,
 		"artists": [
 			{
 				"name": "Eduardo Mello",
@@ -6374,7 +6417,7 @@
 				"ReducedCost": 1
 			}
 		},
-		"series": 0,
+		"series": 7,
 		"artists": [
 			{
 				"name": "Eduardo Mello",
@@ -6384,7 +6427,8 @@
 				"name": "Ryan Kinnaird",
 				"type": 4
 			}
-		]
+		],
+		"collectible": true
 	},
 	{
 		"id": 294,
@@ -6393,7 +6437,7 @@
 		"power": 3,
 		"name": "Mobius M. Mobius",
 		"description": "<b>Ongoing:</b> Your Costs can't be increased. Your opponent's Costs can't be reduced.",
-		"series": 0,
+		"series": 7,
 		"artists": [
 			{
 				"name": "Eduardo Mello",
@@ -6403,7 +6447,8 @@
 				"name": "Ryan Kinnaird",
 				"type": 4
 			}
-		]
+		],
+		"collectible": true
 	},
 	{
 		"id": 295,
@@ -6412,6 +6457,34 @@
 		"power": 5,
 		"name": "Alioth",
 		"description": "<b>On Reveal:</b> Destroy ALL enemy cards played here this turn. <i>(including unrevealed cards)</i>",
+		"series": 8,
+		"artists": [
+			{
+				"name": "Eduardo Mello",
+				"type": 1
+			},
+			{
+				"name": "Ryan Kinnaird",
+				"type": 4
+			}
+		],
+		"collectible": true
+	},
+	{
+		"id": 296,
+		"defId": "ManThing",
+		"cost": 4,
+		"power": 5,
+		"name": "Man-Thing",
+		"description": "<b>Ongoing:</b> 1, 2, and 3-Cost cards here have -2 Power.",
+		"attributes": {
+			"data": {
+				"TargetCardCost_1": 1,
+				"TargetCardCost_2": 2,
+				"TargetCardCost_3": 3,
+				"ReducedPower": 2
+			}
+		},
 		"series": 0,
 		"artists": [
 			{
@@ -6425,60 +6498,209 @@
 		]
 	},
 	{
-		"id": 296,
-		"defId": "ManThing",
-		"cost": 4,
-		"power": 6,
-		"name": "Man-Thing",
-		"description": "none",
-		"attributes": {
-			"data": {
-				"TargetCardCost": 3,
-				"ReducedPower": 1
-			}
-		},
-		"series": 0,
-		"artists": []
-	},
-	{
 		"id": 297,
 		"defId": "EbonyBlade",
-		"cost": 5,
-		"power": 4,
+		"cost": 4,
+		"power": 0,
 		"name": "Ebony Blade",
-		"description": "<b>On Reveal:</b> If your Black Knight is here, destroy the highest-Power enemy card(s) here.",
+		"description": "<i>\"The black blade blazes.\"</i>",
 		"attributes": {
 			"cards": {
-				"Card_Modified": [
+				"Card_Source": [
 					21
 				]
 			}
 		},
 		"series": 0,
-		"artists": []
+		"artists": [
+			{
+				"name": "Eduardo Mello",
+				"type": 1
+			},
+			{
+				"name": "Ryan Kinnaird",
+				"type": 4
+			}
+		]
 	},
 	{
 		"id": 298,
 		"defId": "NicoMinoru",
-		"cost": 3,
-		"power": 4,
+		"cost": 1,
+		"power": 2,
 		"name": "Nico Minoru",
-		"description": "none",
+		"description": "<b>On Reveal:</b> After you play your next card, cast a spell. <i>(The spell\nchanges each turn.)</i>",
+		"attributes": {
+			"cards": {
+				"Card_Related": [
+					314,
+					315,
+					316,
+					317,
+					318,
+					319,
+					320
+				]
+			}
+		},
 		"series": 0,
-		"artists": []
+		"artists": [
+			{
+				"name": "Eduardo Mello",
+				"type": 1
+			},
+			{
+				"name": "Ryan Kinnaird",
+				"type": 4
+			}
+		]
 	},
 	{
 		"id": 299,
 		"defId": "WerewolfByNight",
-		"cost": 0,
-		"power": 0,
+		"cost": 3,
+		"power": 3,
 		"name": "Werewolf By Night",
+		"description": "After you play an <b>On Reveal</b> card at another location, move there and\ngain +2 Power.",
+		"attributes": {
+			"data": {
+				"AddedPower": 2
+			}
+		},
+		"series": 0,
+		"artists": [
+			{
+				"name": "Eduardo Mello",
+				"type": 1
+			},
+			{
+				"name": "Ryan Kinnaird",
+				"type": 4
+			}
+		]
+	},
+	{
+		"id": 300,
+		"defId": "Gladiator",
+		"cost": 3,
+		"power": 8,
+		"name": "Gladiator",
+		"description": "<b>On Reveal:</b> Add a card from your opponent's deck to their side of this location. If it has less Power, destroy it.",
+		"series": 0,
+		"artists": [
+			{
+				"name": "Eduardo Mello",
+				"type": 1
+			},
+			{
+				"name": "Ryan Kinnaird",
+				"type": 4
+			}
+		]
+	},
+	{
+		"id": 301,
+		"defId": "Martyr",
+		"cost": 2,
+		"power": 6,
+		"name": "Martyr",
+		"description": "At the end of the game, move to a location that LOSES you the\ngame. <i>(if possible)</i>",
+		"series": 0,
+		"artists": [
+			{
+				"name": "Eduardo Mello",
+				"type": 1
+			},
+			{
+				"name": "Ryan Kinnaird",
+				"type": 4
+			}
+		]
+	},
+	{
+		"id": 302,
+		"defId": "Djinn",
+		"cost": 0,
+		"power": 1,
+		"name": "Djinn",
+		"description": "<b>On Reveal:</b> Next turn, you get +2 Energy.",
+		"attributes": {
+			"data": {
+				"AddedEnergy": 2
+			}
+		},
+		"series": 0,
+		"artists": []
+	},
+	{
+		"id": 303,
+		"defId": "SebastianShaw",
+		"cost": 1,
+		"power": 1,
+		"name": "Sebastian Shaw",
 		"description": "none",
 		"series": 0,
 		"artists": []
 	},
 	{
-		"id": 300,
+		"id": 304,
+		"defId": "Firestar",
+		"cost": 1,
+		"power": 2,
+		"name": "Firestar",
+		"description": "none",
+		"series": 0,
+		"artists": [
+			{
+				"name": "Joverine",
+				"type": 1
+			},
+			{
+				"name": "Ryan Kinnaird",
+				"type": 4
+			}
+		]
+	},
+	{
+		"id": 305,
+		"defId": "Havok",
+		"cost": 1,
+		"power": 2,
+		"name": "Havok",
+		"description": "none",
+		"series": 0,
+		"artists": [
+			{
+				"name": "Joverine",
+				"type": 1
+			},
+			{
+				"name": "Ryan Kinnaird",
+				"type": 4
+			}
+		]
+	},
+	{
+		"id": 306,
+		"defId": "Selene",
+		"cost": 1,
+		"power": 2,
+		"name": "Selene",
+		"description": "none",
+		"series": 0,
+		"artists": [
+			{
+				"name": "Joverine",
+				"type": 1
+			},
+			{
+				"name": "Ryan Kinnaird",
+				"type": 4
+			}
+		]
+	},
+	{
+		"id": 307,
 		"defId": "EvolvedWasp",
 		"cost": 0,
 		"power": 1,
@@ -6493,7 +6715,7 @@
 		"artists": []
 	},
 	{
-		"id": 301,
+		"id": 308,
 		"defId": "EvolvedMistyKnight",
 		"cost": 1,
 		"power": 2,
@@ -6508,7 +6730,7 @@
 		"artists": []
 	},
 	{
-		"id": 302,
+		"id": 309,
 		"defId": "EvolvedShocker",
 		"cost": 2,
 		"power": 3,
@@ -6523,7 +6745,7 @@
 		"artists": []
 	},
 	{
-		"id": 303,
+		"id": 310,
 		"defId": "EvolvedCyclops",
 		"cost": 3,
 		"power": 4,
@@ -6539,7 +6761,7 @@
 		"artists": []
 	},
 	{
-		"id": 304,
+		"id": 311,
 		"defId": "EvolvedTheThing",
 		"cost": 4,
 		"power": 6,
@@ -6555,7 +6777,7 @@
 		"artists": []
 	},
 	{
-		"id": 305,
+		"id": 312,
 		"defId": "EvolvedAbomination",
 		"cost": 5,
 		"power": 9,
@@ -6570,7 +6792,7 @@
 		"artists": []
 	},
 	{
-		"id": 306,
+		"id": 313,
 		"defId": "EvolvedHulk",
 		"cost": 6,
 		"power": 12,
@@ -6579,6 +6801,166 @@
 		"attributes": {
 			"data": {
 				"AddedPower": 2
+			}
+		},
+		"series": 0,
+		"artists": []
+	},
+	{
+		"id": 314,
+		"defId": "Spell01NicoMinoru",
+		"cost": 1,
+		"power": 2,
+		"name": "Nico Minoru",
+		"description": "<b>On Reveal:</b> After you play your next card, it becomes a Demon.",
+		"attributes": {
+			"cards": {
+				"Card_Token": [
+					52
+				],
+				"Card_Related": [
+					315,
+					316,
+					317,
+					318,
+					319,
+					320
+				]
+			}
+		},
+		"series": 0,
+		"artists": []
+	},
+	{
+		"id": 315,
+		"defId": "Spell02NicoMinoru",
+		"cost": 1,
+		"power": 2,
+		"name": "Nico Minoru",
+		"description": "<b>On Reveal:</b> After you play your next card, destroy it and draw two cards.",
+		"attributes": {
+			"cards": {
+				"Card_Related": [
+					314,
+					316,
+					317,
+					318,
+					319,
+					320
+				]
+			}
+		},
+		"series": 0,
+		"artists": []
+	},
+	{
+		"id": 316,
+		"defId": "Spell03NicoMinoru",
+		"cost": 1,
+		"power": 2,
+		"name": "Nico Minoru",
+		"description": "<b>On Reveal:</b> After you play your next card, move it one location to the right.",
+		"attributes": {
+			"cards": {
+				"Card_Related": [
+					314,
+					315,
+					317,
+					318,
+					319,
+					320
+				]
+			}
+		},
+		"series": 0,
+		"artists": []
+	},
+	{
+		"id": 317,
+		"defId": "Spell04NicoMinoru",
+		"cost": 1,
+		"power": 2,
+		"name": "Nico Minoru",
+		"description": "<b>On Reveal:</b> After you play your next card, give it +2 Power.",
+		"attributes": {
+			"data": {
+				"AddedPower": 2
+			},
+			"cards": {
+				"Card_Related": [
+					314,
+					315,
+					316,
+					318,
+					319,
+					320
+				]
+			}
+		},
+		"series": 0,
+		"artists": []
+	},
+	{
+		"id": 318,
+		"defId": "Spell05NicoMinoru",
+		"cost": 1,
+		"power": 2,
+		"name": "Nico Minoru",
+		"description": "<b>On Reveal:</b> After you play your next card, replace that card's location.",
+		"attributes": {
+			"cards": {
+				"Card_Related": [
+					314,
+					315,
+					316,
+					317,
+					319,
+					320
+				]
+			}
+		},
+		"series": 0,
+		"artists": []
+	},
+	{
+		"id": 319,
+		"defId": "Spell06NicoMinoru",
+		"cost": 1,
+		"power": 2,
+		"name": "Nico Minoru",
+		"description": "<b>On Reveal:</b> After you play your next card, add a copy of it to your hand.",
+		"attributes": {
+			"cards": {
+				"Card_Related": [
+					314,
+					315,
+					316,
+					317,
+					318,
+					320
+				]
+			}
+		},
+		"series": 0,
+		"artists": []
+	},
+	{
+		"id": 320,
+		"defId": "Spell07NicoMinoru",
+		"cost": 1,
+		"power": 2,
+		"name": "Nico Minoru",
+		"description": "<b>On Reveal:</b> After you play your next card, double this card's Power.",
+		"attributes": {
+			"cards": {
+				"Card_Related": [
+					314,
+					315,
+					316,
+					317,
+					318,
+					319
+				]
 			}
 		},
 		"series": 0,
