@@ -11,7 +11,7 @@ const convertCards = (from, to) => {
             progression: true
         }))
     try {
-        fs.writeFileSync('out.json', JSON.stringify(items))
+        fs.writeFileSync(to, JSON.stringify(items))
         console.log('Successfully converted cards')
     } catch (e) {
         console.error('Something went wrong', e)
@@ -20,4 +20,4 @@ const convertCards = (from, to) => {
     return 0
 }
 
-convertCards('../data/cards.json', 'out.json')
+convertCards('../data/cards.json', '../data/items.json')
